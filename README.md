@@ -48,5 +48,9 @@ cd google-playstore-data-analysis</code></pre>
     <h2>📌 Conclusion</h2>
     <p>The <strong>Google Playstore Data Analysis</strong> project offers valuable insights into app market dynamics, trends, and user preferences on the Playstore. By leveraging data cleaning techniques and visual analytics, the analysis provides a clear picture of what drives app success. It’s a great resource for data enthusiasts looking to explore real-world datasets and derive meaningful conclusions. 📲💡</p>
     <p>This project is ideal for beginners aiming to enhance their data analysis skills or professionals interested in understanding app market behavior. Happy Analyzing! 📊✨</p>
+    <h2>👥 Credits</h2>
+    <p>Built by <a href="https://github.com/100rabhhh">Sourabh Jha</a></p>
+    <h2>📄 License</h2>
+    <p>This project is licensed under the MIT License.</p>
 </body>
 </html>
